@@ -1,0 +1,10 @@
+setuptools<82
+reflex>=0.9.0
+fastapi>=0.135.3
+typer>=0.16.0
+yandexid
+httpx
+pydantic>=2.13.4
+dotenv
+tsdangerous
+cryptography>=42.0.0
